@@ -21,7 +21,6 @@ I'm Uthman Ahmad a Frontend Developer. I Spend most of my time coding outstandin
 
 - 🔭 I’m currently working on Video on Demand (VOD) project.
 - 🤔 I’m looking for help with Outstanding Video Streaming ideas.
-- 😄 Pronouns: uthmana, space-kode, uam.
 - 📫 How to reach me: uthmana.muhammad@gmail.com.
 
 
