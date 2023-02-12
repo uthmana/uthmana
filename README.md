@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I'm Uthman Ahmad a Frontend Developer. I Spend most of time coding outstanding projects or watching UFC.
+I'm Uthman Ahmad a Frontend Developer. I Spend most of my time coding outstanding projects or watching UFC game.
 
 :mailbox: Reach me out!
 [![Linkedin Badge]]([https://www.linkedin.com/in/islem-maboud/](https://www.linkedin.com/in/uthman-ahmad/)) 
