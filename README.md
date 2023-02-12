@@ -20,10 +20,10 @@ I'm Uthman Ahmad a Frontend Developer. I Spend most of my time coding outstandin
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working on Video on Demand (VOD) project.
-- :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video Streaming ideas.
-- 📫 How to reach me: uthmana.muhammad@gmail.com.
 - 😄 Pronouns: uthmana, space-kode, uam.
+
+- 📫 How to reach me: uthmana.muhammad@gmail.com.
 
 
 
