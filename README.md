@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+### Hello there 👋
 
 I'm Uthman Ahmad a Frontend Developer. I Spend most of my time coding outstanding projects or watching UFC games.
 
