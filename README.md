@@ -18,7 +18,7 @@ I'm Uthman Ahmad a Frontend Developer. I Spend most of my time coding outstandin
 
 :mailbox: Reach me out!
 [![Linkedin Badge]]([https://www.linkedin.com/in/islem-maboud/](https://www.linkedin.com/in/uthman-ahmad/)) 
-[![Mail Badge](Email)](mailto:uthmana.muhammad@gmail.com)
+[![Mail Badge]"Email"](mailto:uthmana.muhammad@gmail.com)
 
 <!-- TODO: Add last video link -->
 
